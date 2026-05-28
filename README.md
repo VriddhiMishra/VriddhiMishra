@@ -95,19 +95,22 @@ Currently exploring full-stack development, DSA, Data Science and modern web tec
 * Expense Tracker Website
 * Spotify UI Clone
 
+---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VriddhiMishra&show_icons=true&theme=tokyonight" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VriddhiMishra&layout=compact&theme=tokyonight" height="170"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 * LinkedIn: [www.linkedin.com/in/vriddhi-mishra](http://www.linkedin.com/in/vriddhi-mishra)
-* GitHub: github.com/VriddhiMishra
+* GitHub: [VriddhiMishra](https://github.com/VriddhiMishra)
 * Email: [vriddhimishra2@gmail.com](mailto:vriddhimishra2@gmail.com)
 
 ---
