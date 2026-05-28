@@ -96,16 +96,16 @@ Currently exploring full-stack development, DSA, Data Science and modern web tec
 * Spotify UI Clone
 
 ---
-
+```md id="1s0n67"
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VriddhiMishra&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VriddhiMishra&show_icons=true&theme=tokyonight" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VriddhiMishra&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VriddhiMishra&layout=compact&theme=tokyonight" />
 </p>
+```
 
----
 
 ## 🌐 Connect With Me
 
