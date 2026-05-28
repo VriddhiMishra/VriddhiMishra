@@ -22,7 +22,7 @@ Currently exploring full-stack development, DSA, Data Science and modern web tec
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
@@ -96,16 +96,6 @@ Currently exploring full-stack development, DSA, Data Science and modern web tec
 * Spotify UI Clone
 
 ---
-
-```md id="n9k3f1"
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VriddhiMishra&show_icons=true&theme=tokyonight" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VriddhiMishra&layout=compact&theme=tokyonight" />
-</p>
-```
 
 ## 🌐 Connect With Me
 
