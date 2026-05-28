@@ -97,6 +97,7 @@ Currently exploring full-stack development, DSA, Data Science and modern web tec
 
 ---
 
+```md id="n9k3f1"
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -104,8 +105,7 @@ Currently exploring full-stack development, DSA, Data Science and modern web tec
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VriddhiMishra&layout=compact&theme=tokyonight" />
 </p>
----
-
+```
 
 ## 🌐 Connect With Me
 
